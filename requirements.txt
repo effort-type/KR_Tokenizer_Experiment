@@ -1,0 +1,2 @@
+jupyter==1.0.0
+kiwipiepy==0.18.0

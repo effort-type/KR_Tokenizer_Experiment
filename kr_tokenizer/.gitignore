@@ -161,3 +161,8 @@ cython_debug/
 
 # My File
 .gitignore.bak
+chromadb/
+chromadb_basic/
+bm42_25_test/
+bm_test/
+bm_test_1/
